@@ -1,0 +1,34 @@
+_repo: The-Kashf-al-mahjub-The-oldest-Persian-treatise-on-Sufiism_64786
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Nicholson, Reynold Alleyne
+    aliases:
+    - Nicholson, R. N. (Reynold N.)
+    - Nicholson, R. (Reynold Alleyne)
+    - Nicholson, Reynold A.
+    birthdate: 1868
+    deathdate: 1945
+    gutenberg_agent_id: '39176'
+    url: http://www.gutenberg.org/2009/agents/39176
+    wikipedia: http://en.wikipedia.org/wiki/Reynold_A._Nicholson
+creator:
+  author:
+    agent_name: Al-Hujwiri, `Ali b. `Uthman Al-Jullabi
+    gutenberg_agent_id: '53051'
+    url: http://www.gutenberg.org/2009/agents/53051
+description: ''
+gutenberg_issued: '2021-03-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64786'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The Kashf al-mahjúb
+
+  The oldest Persian treatise on Súfiism'
+url: http://www.gutenberg.org/ebooks/64786
