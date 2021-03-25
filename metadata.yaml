@@ -12,12 +12,17 @@ contributor:
     gutenberg_agent_id: '39176'
     url: http://www.gutenberg.org/2009/agents/39176
     wikipedia: http://en.wikipedia.org/wiki/Reynold_A._Nicholson
+covers:
+- cover_type: archival
+  image_path: 64786-h/images/cover.jpg
 creator:
   author:
     agent_name: Al-Hujwiri, `Ali b. `Uthman Al-Jullabi
     gutenberg_agent_id: '53051'
     url: http://www.gutenberg.org/2009/agents/53051
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64786#The-Kashf-al-mahjub-The-oldest-Persian-treatise-on-Sufiism
 gutenberg_issued: '2021-03-11'
 gutenberg_type: Text
 identifiers:
